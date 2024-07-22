@@ -17,7 +17,7 @@ function App() {
   return (
     <BrowserRouter>
     <div className='App'>
-      <div className='blackheader'>EXTRA 5% DISCOUNT FOR ALL ONLINE PAYMENTS </div>
+      <div className='blackheader'>EXTRA 5% DISCOUNT FOR ALL ONLINE PAYMENT </div>
       <div className='headerbox'>
       <Link className="navitem" to="home"><img className='logo' src={img1}></img></Link>
       <div className='category'> 
